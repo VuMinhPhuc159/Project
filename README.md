@@ -11,9 +11,3 @@ Hackerrank - Interviews: https://github.com/VuMinhPhuc159/Project/blob/main/inte
 Hackerrank - Sql project planning: https://github.com/VuMinhPhuc159/Project/blob/main/sql%20project%20planning.sql <br />
 Hackerrank - Placements: https://github.com/VuMinhPhuc159/Project/blob/main/placements.sql <br />
 Hackerrank - Symmetric Pairs: https://github.com/VuMinhPhuc159/Project/blob/main/symmetric%20pairs.sql <br />
-<br />
-PBI REPORT <br />
-Ecommerce Report: https://drive.google.com/file/d/1LlxZtzbx1HAjr9XtUaaR-J-v2i8Xh7v1/view?usp=sharing <br />
-VietRobot Report: https://drive.google.com/file/d/1Lm6Z6rllDt3Bh6mfKqQ3lO0hhO2DuV5p/view?usp=sharing <br />
-BSC Report: https://drive.google.com/file/d/1LrHLMSfmAzq8-HmKvq-zf6rxOGur-fao/view?usp=sharing <br />
-Retail Report: https://drive.google.com/file/d/1LrpwPU4xgPuDWdVduS-eMY7ay0AhrMA5/view?usp=sharing <br />
